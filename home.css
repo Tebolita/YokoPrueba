@@ -1,0 +1,12 @@
+.ImgPerfil{
+    border-radius: 50%;
+}
+
+.itext{
+  color: gray;
+}
+
+.BtnEdit{
+    cursor: pointer;
+    color: blueviolet;
+}
